@@ -1,6 +1,3 @@
-# openclaw_dailypaper
-AI research agent on OpenClaw (Tencent Cloud). Natural language via WeChat → auto-downloads SEC 10-K/10-Q → parses financials → generates MBB-style Chinese reports → delivers to Feishu IM + docs. Covers academic papers &amp; earnings research. Multi-agent (V4) to OpenClaw-native skill (V5).
-
 # 龙虾 OpenClaw · 论文 & 财报研究助手
 
 基于 [OpenClaw](https://openclaw.ai)（腾讯云）构建的 AI 研究 Agent，覆盖**学术论文分析**与**上市公司财报研究**两条主线，微信 ClawBot 自然语言触发，飞书 IM + 云文档双路交付。
